@@ -1,0 +1,31 @@
+hello - bot responds with hi
+
+------+
+search|
+------+
+command -> search or s
+syntax  -> search [word] [sentence]
+function -> not return weather the word is present in the given sentence and returns all occurrences
+________________________________________________________________________
+
+---------+
+wallpaper|
+---------+
+command -> wallpaper or walls or w
+syntax  -> wallpaper [number] [topic]
+topic can be left empty for random wallpapers
+if number is left empty the bot will return the images in sets of 10
+function -> returns specified number of wallpapers of specified topic
+__________________________________________________________________________work pending
+
+------+
+movies|
+------+
+command -> movies or movie or m
+syntax -> movies [name]
+name can be left empty for random movies
+function  -> returning links to watch movies related to search term
+____________________________________________________________________________work not started
+
+
+
